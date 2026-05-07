@@ -1,6 +1,6 @@
 let school = {
   name: "My School",
-  "Average Class Size": 25,
+  "average class size": 25,
   mascot: "Eagles"
 };
 let { name, averageClassSize, mascot } = school;
